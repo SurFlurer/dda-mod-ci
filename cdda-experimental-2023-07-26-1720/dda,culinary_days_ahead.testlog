@@ -1,0 +1,17 @@
+2023-07-27T03:35:14.6543073Z (dda,culinary_days_ahead)=>
+2023-07-27T03:35:14.6543565Z (dda,culinary_days_ahead)=>03:35:00.493 INFO : Randomness seeded to: 1690428900
+2023-07-27T03:35:14.6544133Z (dda,culinary_days_ahead)=>03:35:00.493 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-27T03:35:14.6544741Z (dda,culinary_days_ahead)=>03:35:00.495 INFO : SDL render devices: software, opengl, opengles2
+2023-07-27T03:35:14.6545242Z (dda,culinary_days_ahead)=>03:35:00.496 INFO : [options] C locale set to C
+2023-07-27T03:35:14.6545709Z (dda,culinary_days_ahead)=>03:35:00.496 INFO : [options] C++ locale set to C
+2023-07-27T03:35:14.6546778Z (dda,culinary_days_ahead)=>03:35:04.961 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-27T03:35:14.6547425Z (dda,culinary_days_ahead)=>03:35:14.387 INFO : Game data loaded, running Catch2 session:
+2023-07-27T03:35:14.6547927Z (dda,culinary_days_ahead)=>[1;33mFilters: ~*
+2023-07-27T03:35:14.6548419Z (dda,culinary_days_ahead)=>[0mNo test cases matched '~*'
+2023-07-27T03:35:14.6549032Z (dda,culinary_days_ahead)=>[1;33m===============================================================================[0m
+2023-07-27T03:35:14.6549521Z (dda,culinary_days_ahead)=>[1;33mNo tests ran
+2023-07-27T03:35:14.6549921Z (dda,culinary_days_ahead)=>[0m
+2023-07-27T03:35:14.6550238Z (dda,culinary_days_ahead)=>
+2023-07-27T03:35:14.6551382Z (dda,culinary_days_ahead)=>03:35:14.389 INFO : Finished in 0.00150288 seconds
+2023-07-27T03:35:14.6551846Z (dda,culinary_days_ahead)=>03:35:14.389 INFO : Randomness seeded to: 1690428900
+2023-07-27T03:35:14.6552226Z (dda,culinary_days_ahead)=>

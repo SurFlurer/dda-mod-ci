@@ -1,0 +1,17 @@
+2023-07-27T03:33:26.0298694Z (dda,Dorf_Life)=>
+2023-07-27T03:33:26.0304420Z (dda,Dorf_Life)=>03:33:12.032 INFO : Randomness seeded to: 1690428792
+2023-07-27T03:33:26.0306189Z (dda,Dorf_Life)=>03:33:12.033 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-27T03:33:26.0307202Z (dda,Dorf_Life)=>03:33:12.035 INFO : SDL render devices: software, opengl, opengles2
+2023-07-27T03:33:26.0308252Z (dda,Dorf_Life)=>03:33:12.035 INFO : [options] C locale set to C
+2023-07-27T03:33:26.0309095Z (dda,Dorf_Life)=>03:33:12.035 INFO : [options] C++ locale set to C
+2023-07-27T03:33:26.0310616Z (dda,Dorf_Life)=>03:33:16.446 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-27T03:33:26.0311576Z (dda,Dorf_Life)=>03:33:25.774 INFO : Game data loaded, running Catch2 session:
+2023-07-27T03:33:26.0312911Z (dda,Dorf_Life)=>[1;33mFilters: ~*
+2023-07-27T03:33:26.0313724Z (dda,Dorf_Life)=>[0mNo test cases matched '~*'
+2023-07-27T03:33:26.0314844Z (dda,Dorf_Life)=>[1;33m===============================================================================[0m
+2023-07-27T03:33:26.0315568Z (dda,Dorf_Life)=>[1;33mNo tests ran
+2023-07-27T03:33:26.0316435Z (dda,Dorf_Life)=>[0m
+2023-07-27T03:33:26.0346964Z (dda,Dorf_Life)=>
+2023-07-27T03:33:26.0347361Z (dda,Dorf_Life)=>03:33:25.776 INFO : Finished in 0.00159929 seconds
+2023-07-27T03:33:26.0347801Z (dda,Dorf_Life)=>03:33:25.776 INFO : Randomness seeded to: 1690428792
+2023-07-27T03:33:26.0348147Z (dda,Dorf_Life)=>

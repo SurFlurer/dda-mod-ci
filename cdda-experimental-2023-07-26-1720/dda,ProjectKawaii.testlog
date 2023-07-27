@@ -1,0 +1,17 @@
+2023-07-27T03:33:12.0031041Z (dda,ProjectKawaii)=>
+2023-07-27T03:33:12.0032583Z (dda,ProjectKawaii)=>03:32:57.863 INFO : Randomness seeded to: 1690428777
+2023-07-27T03:33:12.0039834Z (dda,ProjectKawaii)=>03:32:57.864 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-27T03:33:12.0040839Z (dda,ProjectKawaii)=>03:32:57.866 INFO : SDL render devices: software, opengl, opengles2
+2023-07-27T03:33:12.0041765Z (dda,ProjectKawaii)=>03:32:57.866 INFO : [options] C locale set to C
+2023-07-27T03:33:12.0042524Z (dda,ProjectKawaii)=>03:32:57.866 INFO : [options] C++ locale set to C
+2023-07-27T03:33:12.0043982Z (dda,ProjectKawaii)=>03:33:02.276 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-27T03:33:12.0045074Z (dda,ProjectKawaii)=>03:33:11.749 INFO : Game data loaded, running Catch2 session:
+2023-07-27T03:33:12.0046808Z (dda,ProjectKawaii)=>[1;33mFilters: ~*
+2023-07-27T03:33:12.0067273Z (dda,ProjectKawaii)=>[0mNo test cases matched '~*'
+2023-07-27T03:33:12.0068284Z (dda,ProjectKawaii)=>[1;33m===============================================================================[0m
+2023-07-27T03:33:12.0069035Z (dda,ProjectKawaii)=>[1;33mNo tests ran
+2023-07-27T03:33:12.0069537Z (dda,ProjectKawaii)=>[0m
+2023-07-27T03:33:12.0070147Z (dda,ProjectKawaii)=>
+2023-07-27T03:33:12.0071113Z (dda,ProjectKawaii)=>03:33:11.751 INFO : Finished in 0.00156229 seconds
+2023-07-27T03:33:12.0071718Z (dda,ProjectKawaii)=>03:33:11.751 INFO : Randomness seeded to: 1690428777
+2023-07-27T03:33:12.0072258Z (dda,ProjectKawaii)=>
