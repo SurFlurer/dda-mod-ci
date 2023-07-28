@@ -1,0 +1,17 @@
+2023-07-28T02:20:06.5963261Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>
+2023-07-28T02:20:06.5964182Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:19:45.591 INFO : Randomness seeded to: 1690510785
+2023-07-28T02:20:06.5965263Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:19:45.591 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-28T02:20:06.5966095Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:19:45.593 INFO : SDL render devices: software, opengl, opengles2
+2023-07-28T02:20:06.5967218Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:19:45.594 INFO : [options] C locale set to C
+2023-07-28T02:20:06.5967938Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:19:45.594 INFO : [options] C++ locale set to C
+2023-07-28T02:20:06.5970008Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:19:50.627 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_afs_formless_ruins_dynamic' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-28T02:20:06.5970913Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:20:06.271 INFO : Game data loaded, running Catch2 session:
+2023-07-28T02:20:06.5971588Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>[1;33mFilters: ~*
+2023-07-28T02:20:06.5972241Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>[0mNo test cases matched '~*'
+2023-07-28T02:20:06.5972993Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>[1;33m===============================================================================[0m
+2023-07-28T02:20:06.5973643Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>[1;33mNo tests ran
+2023-07-28T02:20:06.5974211Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>[0m
+2023-07-28T02:20:06.5974671Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>
+2023-07-28T02:20:06.5975189Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:20:06.273 INFO : Finished in 0.00166863 seconds
+2023-07-28T02:20:06.5975791Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>02:20:06.273 INFO : Randomness seeded to: 1690510785
+2023-07-28T02:20:06.5976638Z (dda,Arcana,aftershock,Arcana_aftershock_Patch)=>

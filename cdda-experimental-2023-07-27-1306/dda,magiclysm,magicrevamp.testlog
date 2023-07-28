@@ -1,0 +1,17 @@
+2023-07-28T02:25:24.1303981Z (dda,magiclysm,magicrevamp)=>
+2023-07-28T02:25:24.1304591Z (dda,magiclysm,magicrevamp)=>02:25:08.719 INFO : Randomness seeded to: 1690511108
+2023-07-28T02:25:24.1305209Z (dda,magiclysm,magicrevamp)=>02:25:08.720 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-28T02:25:24.1305829Z (dda,magiclysm,magicrevamp)=>02:25:08.722 INFO : SDL render devices: software, opengl, opengles2
+2023-07-28T02:25:24.1306392Z (dda,magiclysm,magicrevamp)=>02:25:08.723 INFO : [options] C locale set to C
+2023-07-28T02:25:24.1306915Z (dda,magiclysm,magicrevamp)=>02:25:08.723 INFO : [options] C++ locale set to C
+2023-07-28T02:25:24.1308048Z (dda,magiclysm,magicrevamp)=>02:25:10.988 INFO : src/mod_tracker.h:68: Tried check if 'house_detatched5' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-28T02:25:24.1308733Z (dda,magiclysm,magicrevamp)=>02:25:23.849 INFO : Game data loaded, running Catch2 session:
+2023-07-28T02:25:24.1309669Z (dda,magiclysm,magicrevamp)=>[1;33mFilters: ~*
+2023-07-28T02:25:24.1310206Z (dda,magiclysm,magicrevamp)=>[0mNo test cases matched '~*'
+2023-07-28T02:25:24.1310863Z (dda,magiclysm,magicrevamp)=>[1;33m===============================================================================[0m
+2023-07-28T02:25:24.1311376Z (dda,magiclysm,magicrevamp)=>[1;33mNo tests ran
+2023-07-28T02:25:24.1311835Z (dda,magiclysm,magicrevamp)=>[0m
+2023-07-28T02:25:24.1312202Z (dda,magiclysm,magicrevamp)=>
+2023-07-28T02:25:24.1312663Z (dda,magiclysm,magicrevamp)=>02:25:23.850 INFO : Finished in 0.00140833 seconds
+2023-07-28T02:25:24.1313157Z (dda,magiclysm,magicrevamp)=>02:25:23.850 INFO : Randomness seeded to: 1690511108
+2023-07-28T02:25:24.1313583Z (dda,magiclysm,magicrevamp)=>

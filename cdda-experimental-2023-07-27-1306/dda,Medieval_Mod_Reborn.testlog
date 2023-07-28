@@ -1,0 +1,17 @@
+2023-07-28T02:22:49.6509043Z (dda,Medieval_Mod_Reborn)=>
+2023-07-28T02:22:49.6509783Z (dda,Medieval_Mod_Reborn)=>02:22:35.108 INFO : Randomness seeded to: 1690510955
+2023-07-28T02:22:49.6510461Z (dda,Medieval_Mod_Reborn)=>02:22:35.108 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-28T02:22:49.6511119Z (dda,Medieval_Mod_Reborn)=>02:22:35.110 INFO : SDL render devices: software, opengl, opengles2
+2023-07-28T02:22:49.6511720Z (dda,Medieval_Mod_Reborn)=>02:22:35.110 INFO : [options] C locale set to C
+2023-07-28T02:22:49.6512281Z (dda,Medieval_Mod_Reborn)=>02:22:35.110 INFO : [options] C++ locale set to C
+2023-07-28T02:22:49.6513467Z (dda,Medieval_Mod_Reborn)=>02:22:39.581 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-28T02:22:49.6514266Z (dda,Medieval_Mod_Reborn)=>02:22:49.386 INFO : Game data loaded, running Catch2 session:
+2023-07-28T02:22:49.6514863Z (dda,Medieval_Mod_Reborn)=>[1;33mFilters: ~*
+2023-07-28T02:22:49.6515452Z (dda,Medieval_Mod_Reborn)=>[0mNo test cases matched '~*'
+2023-07-28T02:22:49.6516160Z (dda,Medieval_Mod_Reborn)=>[1;33m===============================================================================[0m
+2023-07-28T02:22:49.6516731Z (dda,Medieval_Mod_Reborn)=>[1;33mNo tests ran
+2023-07-28T02:22:49.6517650Z (dda,Medieval_Mod_Reborn)=>[0m
+2023-07-28T02:22:49.6518067Z (dda,Medieval_Mod_Reborn)=>
+2023-07-28T02:22:49.6518560Z (dda,Medieval_Mod_Reborn)=>02:22:49.388 INFO : Finished in 0.00145403 seconds
+2023-07-28T02:22:49.6519112Z (dda,Medieval_Mod_Reborn)=>02:22:49.388 INFO : Randomness seeded to: 1690510955
+2023-07-28T02:22:49.6519556Z (dda,Medieval_Mod_Reborn)=>

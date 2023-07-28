@@ -1,0 +1,17 @@
+2023-07-28T02:24:06.8049792Z (dda,MST_Extra)=>
+2023-07-28T02:24:06.8050273Z (dda,MST_Extra)=>02:23:52.207 INFO : Randomness seeded to: 1690511032
+2023-07-28T02:24:06.8050806Z (dda,MST_Extra)=>02:23:52.207 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-28T02:24:06.8051344Z (dda,MST_Extra)=>02:23:52.210 INFO : SDL render devices: software, opengl, opengles2
+2023-07-28T02:24:06.8051825Z (dda,MST_Extra)=>02:23:52.210 INFO : [options] C locale set to C
+2023-07-28T02:24:06.8052260Z (dda,MST_Extra)=>02:23:52.210 INFO : [options] C++ locale set to C
+2023-07-28T02:24:06.8053303Z (dda,MST_Extra)=>02:23:56.742 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-28T02:24:06.8053897Z (dda,MST_Extra)=>02:24:06.537 INFO : Game data loaded, running Catch2 session:
+2023-07-28T02:24:06.8054365Z (dda,MST_Extra)=>[1;33mFilters: ~*
+2023-07-28T02:24:06.8055501Z (dda,MST_Extra)=>[0mNo test cases matched '~*'
+2023-07-28T02:24:06.8056070Z (dda,MST_Extra)=>[1;33m===============================================================================[0m
+2023-07-28T02:24:06.8056483Z (dda,MST_Extra)=>[1;33mNo tests ran
+2023-07-28T02:24:06.8056848Z (dda,MST_Extra)=>[0m
+2023-07-28T02:24:06.8057126Z (dda,MST_Extra)=>
+2023-07-28T02:24:06.8057469Z (dda,MST_Extra)=>02:24:06.539 INFO : Finished in 0.00143023 seconds
+2023-07-28T02:24:06.8057906Z (dda,MST_Extra)=>02:24:06.539 INFO : Randomness seeded to: 1690511032
+2023-07-28T02:24:06.8058250Z (dda,MST_Extra)=>

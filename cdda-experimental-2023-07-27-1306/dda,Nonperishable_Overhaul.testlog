@@ -1,0 +1,17 @@
+2023-07-28T02:22:35.0776933Z (dda,Nonperishable_Overhaul)=>
+2023-07-28T02:22:35.0777818Z (dda,Nonperishable_Overhaul)=>02:22:20.667 INFO : Randomness seeded to: 1690510940
+2023-07-28T02:22:35.0778506Z (dda,Nonperishable_Overhaul)=>02:22:20.668 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-28T02:22:35.0779208Z (dda,Nonperishable_Overhaul)=>02:22:20.670 INFO : SDL render devices: software, opengl, opengles2
+2023-07-28T02:22:35.0779819Z (dda,Nonperishable_Overhaul)=>02:22:20.670 INFO : [options] C locale set to C
+2023-07-28T02:22:35.0780398Z (dda,Nonperishable_Overhaul)=>02:22:20.670 INFO : [options] C++ locale set to C
+2023-07-28T02:22:35.0781761Z (dda,Nonperishable_Overhaul)=>02:22:25.131 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-28T02:22:35.0782530Z (dda,Nonperishable_Overhaul)=>02:22:34.813 INFO : Game data loaded, running Catch2 session:
+2023-07-28T02:22:35.0783165Z (dda,Nonperishable_Overhaul)=>[1;33mFilters: ~*
+2023-07-28T02:22:35.0783775Z (dda,Nonperishable_Overhaul)=>[0mNo test cases matched '~*'
+2023-07-28T02:22:35.0784515Z (dda,Nonperishable_Overhaul)=>[1;33m===============================================================================[0m
+2023-07-28T02:22:35.0785097Z (dda,Nonperishable_Overhaul)=>[1;33mNo tests ran
+2023-07-28T02:22:35.0785623Z (dda,Nonperishable_Overhaul)=>[0m
+2023-07-28T02:22:35.0786061Z (dda,Nonperishable_Overhaul)=>
+2023-07-28T02:22:35.0786570Z (dda,Nonperishable_Overhaul)=>02:22:34.814 INFO : Finished in 0.00154643 seconds
+2023-07-28T02:22:35.0787481Z (dda,Nonperishable_Overhaul)=>02:22:34.814 INFO : Randomness seeded to: 1690510940
+2023-07-28T02:22:35.0787995Z (dda,Nonperishable_Overhaul)=>

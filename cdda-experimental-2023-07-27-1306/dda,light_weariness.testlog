@@ -1,0 +1,17 @@
+2023-07-28T02:22:06.2363944Z (dda,light_weariness)=>
+2023-07-28T02:22:06.2364468Z (dda,light_weariness)=>02:21:51.747 INFO : Randomness seeded to: 1690510911
+2023-07-28T02:22:06.2365036Z (dda,light_weariness)=>02:21:51.747 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-07-28T02:22:06.2365611Z (dda,light_weariness)=>02:21:51.749 INFO : SDL render devices: software, opengl, opengles2
+2023-07-28T02:22:06.2366100Z (dda,light_weariness)=>02:21:51.750 INFO : [options] C locale set to C
+2023-07-28T02:22:06.2366556Z (dda,light_weariness)=>02:21:51.750 INFO : [options] C++ locale set to C
+2023-07-28T02:22:06.2367692Z (dda,light_weariness)=>02:21:56.185 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-07-28T02:22:06.2368742Z (dda,light_weariness)=>02:22:05.971 INFO : Game data loaded, running Catch2 session:
+2023-07-28T02:22:06.2369262Z (dda,light_weariness)=>[1;33mFilters: ~*
+2023-07-28T02:22:06.2369736Z (dda,light_weariness)=>[0mNo test cases matched '~*'
+2023-07-28T02:22:06.2370323Z (dda,light_weariness)=>[1;33m===============================================================================[0m
+2023-07-28T02:22:06.2370792Z (dda,light_weariness)=>[1;33mNo tests ran
+2023-07-28T02:22:06.2371190Z (dda,light_weariness)=>[0m
+2023-07-28T02:22:06.2371483Z (dda,light_weariness)=>
+2023-07-28T02:22:06.2371873Z (dda,light_weariness)=>02:22:05.972 INFO : Finished in 0.00150063 seconds
+2023-07-28T02:22:06.2372325Z (dda,light_weariness)=>02:22:05.972 INFO : Randomness seeded to: 1690510911
+2023-07-28T02:22:06.2372693Z (dda,light_weariness)=>
