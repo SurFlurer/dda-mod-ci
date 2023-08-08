@@ -1,0 +1,17 @@
+2023-08-07T13:05:59.2179064Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>
+2023-08-07T13:05:59.2184121Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:39.831 INFO : Randomness seeded to: 1691413539
+2023-08-07T13:05:59.2184894Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:39.832 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-08-07T13:05:59.2185692Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:39.834 INFO : SDL render devices: software, opengl, opengles2
+2023-08-07T13:05:59.2188190Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:39.834 INFO : [options] C locale set to C
+2023-08-07T13:05:59.2188763Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:39.834 INFO : [options] C++ locale set to C
+2023-08-07T13:05:59.2189861Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:43.844 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_afs_formless_ruins_dynamic' had a duplicate, but type 'overmap_special' does not track object sources
+2023-08-07T13:05:59.2298802Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:58.936 INFO : Game data loaded, running Catch2 session:
+2023-08-07T13:05:59.2299459Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>[1;33mFilters: ~*
+2023-08-07T13:05:59.2299920Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>[0mNo test cases matched '~*'
+2023-08-07T13:05:59.2300449Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>[1;33m===============================================================================[0m
+2023-08-07T13:05:59.2300902Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>[1;33mNo tests ran
+2023-08-07T13:05:59.2301303Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>[0m
+2023-08-07T13:05:59.2301605Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>
+2023-08-07T13:05:59.2301977Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:58.937 INFO : Finished in 0.0012054 seconds
+2023-08-07T13:05:59.2302409Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>13:05:58.937 INFO : Randomness seeded to: 1691413539
+2023-08-07T13:05:59.2302761Z (dda,aftershock,DinoMod,Dino_Mad_Science)=>

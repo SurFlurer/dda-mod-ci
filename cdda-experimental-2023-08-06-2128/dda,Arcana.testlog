@@ -1,0 +1,17 @@
+2023-08-07T13:06:13.0934091Z (dda,Arcana)=>
+2023-08-07T13:06:13.0934453Z (dda,Arcana)=>13:05:59.241 INFO : Randomness seeded to: 1691413559
+2023-08-07T13:06:13.0935008Z (dda,Arcana)=>13:05:59.242 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-08-07T13:06:13.0935498Z (dda,Arcana)=>13:05:59.243 INFO : SDL render devices: software, opengl, opengles2
+2023-08-07T13:06:13.0935919Z (dda,Arcana)=>13:05:59.243 INFO : [options] C locale set to C
+2023-08-07T13:06:13.0936311Z (dda,Arcana)=>13:05:59.244 INFO : [options] C++ locale set to C
+2023-08-07T13:06:13.0937186Z (dda,Arcana)=>13:06:03.144 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-08-07T13:06:13.0937744Z (dda,Arcana)=>13:06:12.867 INFO : Game data loaded, running Catch2 session:
+2023-08-07T13:06:13.0938166Z (dda,Arcana)=>[1;33mFilters: ~*
+2023-08-07T13:06:13.0938568Z (dda,Arcana)=>[0mNo test cases matched '~*'
+2023-08-07T13:06:13.0939077Z (dda,Arcana)=>[1;33m===============================================================================[0m
+2023-08-07T13:06:13.0939470Z (dda,Arcana)=>[1;33mNo tests ran
+2023-08-07T13:06:13.0939808Z (dda,Arcana)=>[0m
+2023-08-07T13:06:13.0940070Z (dda,Arcana)=>
+2023-08-07T13:06:13.0940368Z (dda,Arcana)=>13:06:12.868 INFO : Finished in 0.0011218 seconds
+2023-08-07T13:06:13.0940761Z (dda,Arcana)=>13:06:12.868 INFO : Randomness seeded to: 1691413559
+2023-08-07T13:06:13.0941071Z (dda,Arcana)=>

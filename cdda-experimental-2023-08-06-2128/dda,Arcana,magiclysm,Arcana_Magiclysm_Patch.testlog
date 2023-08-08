@@ -1,0 +1,17 @@
+2023-08-07T13:03:41.9693506Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>
+2023-08-07T13:03:41.9694364Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:26.985 INFO : Randomness seeded to: 1691413406
+2023-08-07T13:03:41.9695143Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:26.986 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-08-07T13:03:41.9789079Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:26.988 INFO : SDL render devices: software, opengl, opengles2
+2023-08-07T13:03:41.9789582Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:26.988 INFO : [options] C locale set to C
+2023-08-07T13:03:41.9790016Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:26.988 INFO : [options] C++ locale set to C
+2023-08-07T13:03:41.9790903Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:28.950 INFO : src/mod_tracker.h:68: Tried check if 'house_detatched5' had a duplicate, but type 'overmap_special' does not track object sources
+2023-08-07T13:03:41.9791468Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:41.742 INFO : Game data loaded, running Catch2 session:
+2023-08-07T13:03:41.9791951Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>[1;33mFilters: ~*
+2023-08-07T13:03:41.9792729Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>[0mNo test cases matched '~*'
+2023-08-07T13:03:41.9793295Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>[1;33m===============================================================================[0m
+2023-08-07T13:03:41.9793751Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>[1;33mNo tests ran
+2023-08-07T13:03:41.9794165Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>[0m
+2023-08-07T13:03:41.9794493Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>
+2023-08-07T13:03:41.9794876Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:41.743 INFO : Finished in 0.0011303 seconds
+2023-08-07T13:03:41.9795299Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>13:03:41.743 INFO : Randomness seeded to: 1691413406
+2023-08-07T13:03:41.9795668Z (dda,Arcana,magiclysm,Arcana_Magiclysm_Patch)=>

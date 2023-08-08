@@ -1,0 +1,17 @@
+2023-08-07T13:06:40.5801092Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>
+2023-08-07T13:06:40.5805453Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:26.419 INFO : Randomness seeded to: 1691413586
+2023-08-07T13:06:40.5806219Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:26.420 WARNING : opendir [lang/mo/] failed with "No such file or directory".
+2023-08-07T13:06:40.5807638Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:26.422 INFO : SDL render devices: software, opengl, opengles2
+2023-08-07T13:06:40.5808108Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:26.422 INFO : [options] C locale set to C
+2023-08-07T13:06:40.5808536Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:26.422 INFO : [options] C++ locale set to C
+2023-08-07T13:06:40.5809460Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:30.473 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+2023-08-07T13:06:40.5815263Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:40.345 INFO : Game data loaded, running Catch2 session:
+2023-08-07T13:06:40.5815772Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>[1;33mFilters: ~*
+2023-08-07T13:06:40.5816225Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>[0mNo test cases matched '~*'
+2023-08-07T13:06:40.5816750Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>[1;33m===============================================================================[0m
+2023-08-07T13:06:40.5817189Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>[1;33mNo tests ran
+2023-08-07T13:06:40.5817578Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>[0m
+2023-08-07T13:06:40.5817883Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>
+2023-08-07T13:06:40.5818246Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:40.346 INFO : Finished in 0.0011816 seconds
+2023-08-07T13:06:40.5818673Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>13:06:40.346 INFO : Randomness seeded to: 1691413586
+2023-08-07T13:06:40.5819021Z (dda,Arcana,DinoMod,Arcana_Dinomod_Patch)=>
