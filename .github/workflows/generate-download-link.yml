@@ -39,17 +39,17 @@ jobs:
     permissions: write-all
     steps:
     - uses: actions/checkout@v4
-    with:
+      with:
         ref: result
         fetch-depth: 0
         token: ${{ secrets.PAT }}
     - name: Commit files
-    run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        release=$(${{ matrix.release }}#*-)
-        release=$(${{ matrix.release }}#*-)
-        echo $release
+      run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          release=$(${{ matrix.release }}#*-)
+          release=$(${{ matrix.release }}#*-)
+          echo $release
         #release=$(cat ../release)
         #mkdir $release
         #cp ../*.testlog $release/
