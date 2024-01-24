@@ -1,0 +1,80 @@
+name: Generate download link
+
+on:
+  workflow_dispatch:
+ # schedule:
+ #   - cron: '40 6,18 * * *'
+#  push:
+#    branches:
+#    - main
+    
+#concurrency:
+#  group: test-build-${{ github.event.pull_request.number || github.ref_name }}
+#  cancel-in-progress: true
+
+jobs:
+  fetch_release:
+    runs-on: ubuntu-latest
+    outputs: 
+      releases: ${{ steps.fetch.outputs.releases }}
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        id: fetch
+        run: |
+          gh api \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            /repos/CleverRaven/Cataclysm-DDA/releases?per_page=1 > data.json
+          matrix=$(
+            echo '{ "release" : '
+            (jq '[.[]|.tag_name]' data.json | sed 's/[[:space:]]//g')
+            echo '}'
+              )
+          matrix=$(echo $matrix | sed ':a;N;$!ba;s/\n/;/g') 
+          matrix1="{ \"release\" : [ \"cdda-experimental-2023-07-23-0530\", \"cdda-experimental-2023-07-22-2222\" ] }"
+          echo $matrix1
+          echo $matrix
+          echo "releases=$matrix" >> $GITHUB_OUTPUT
+ # check-matrix:
+ #   runs-on: ubuntu-latest
+ #   needs: fetch_release
+ #   steps:
+ #     - name: Check matrix definition
+ #       run: |
+ #         matrix='${{ needs.fetch_release.outputs.releases }}'
+ #         echo $matrix
+ #         echo $matrix | jq .
+  matrix_build:
+    needs: [ fetch_release ]
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.fetch_release.outputs.releases) }}
+    runs-on: ubuntu-latest
+    name: ${{ matrix.release }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions: write-all
+    steps:
+    - uses: actions/checkout@v4
+    with:
+        ref: result
+        fetch-depth: 0
+        token: ${{ secrets.PAT }}
+    - name: Commit files
+    run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        release=$(${{ matrix.release }}#*-)
+        release=$(${{ matrix.release }}#*-)
+        echo $release
+        #release=$(cat ../release)
+        #mkdir $release
+        #cp ../*.testlog $release/
+        #git add .
+        #git add $release/
+        #git commit -m "auto-update"
+    #- name: Push changes
+    #uses: ad-m/github-push-action@master
+    #with:
+    #    branch: result
+    #    github_token: ${{ secrets.PAT }}
