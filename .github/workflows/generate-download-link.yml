@@ -52,6 +52,7 @@ jobs:
       matrix: ${{ fromJSON(needs.fetch_release.outputs.releases) }}
     runs-on: ubuntu-latest
     name: ${{ matrix.release }}
+    env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     permissions: write-all
     steps:
