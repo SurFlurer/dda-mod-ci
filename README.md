@@ -1,12 +1,12 @@
-2024-02-22-0718
+2024-02-23-0542
 
 Android x64:
 
-mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2024-02-22-0718/cdda-android-x64-2024-02-22-0718.apk
+mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2024-02-23-0542/cdda-android-x64-2024-02-23-0542.apk
 
 Windows x64 msvc:
 
-mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2024-02-22-0718/cdda-windows-tiles-x64-msvc-2024-02-22-0718.zip
+mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2024-02-23-0542/cdda-windows-tiles-x64-msvc-2024-02-23-0542.zip
 
 请复制链接到浏览器打开
 
