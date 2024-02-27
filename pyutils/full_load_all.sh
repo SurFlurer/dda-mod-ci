@@ -40,6 +40,7 @@ export -f run_test
 # just to verify that all the mod data can be successfully loaded.
 # Because some mods might be mutually incompatible we might need to run a few times.
 
+failed_num=0
 ./build-scripts/full_get_mods.py | \
             while read mods
             do
@@ -52,8 +53,10 @@ export -f run_test
                 fi
                 if [[ $result -eq 1 ]]
                 then
+                    failed_num=$(( $failed_num + 1 ))
                     echo "${mods}: ERROR" >> result.json
                     cat "${mods}.data"
                 fi
             }
             done
+exit $failed_num
