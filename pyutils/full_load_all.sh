@@ -18,10 +18,10 @@ function run_test
     set -o pipefail
     test_exit_code=0
     mods=$1
-    prefix="(${mods})=>"
+	sed_options='s/^(::(warning|error|debug)[^:]*::)?/\1'"(${mods})=>"'/'
     shift 2
     } &> /dev/null
-    $WINE "$test_bin" ${cata_test_opts} '[force_load_game]' --mods="${mods}" 2>&1 | sed -E 's/^(::(warning|error|debug)[^:]*::)?/\1'"$prefix"'/'  > "${mods}.data" || test_exit_code="${PIPESTATUS[0]}"
+    $WINE "$test_bin" ${cata_test_opts} '[force_load_game]' --mods="${mods}" 2>&1 | sed -E "$sed_options" > "${mods}.data" || test_exit_code="${PIPESTATUS[0]}"
     if [ "$test_exit_code" -eq "0" ]
     then
         echo "${mods}: OK" >> result.json
