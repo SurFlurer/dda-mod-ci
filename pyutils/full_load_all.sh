@@ -25,9 +25,7 @@ function run_test
     if [ "$test_exit_code" -eq "0" ]
     then
         echo "${mods}: OK" >> result.json
-    fi
-    if [ "$test_exit_code" -ne "0" ]
-    then
+    else
         echo "error" >> error.sig
         echo "${mods}: ERROR" >> result.json
         cat "${mods}.data"
@@ -48,4 +46,3 @@ if [ ! -f "error.sig" ];then
 else
     exit 1
 fi
-
