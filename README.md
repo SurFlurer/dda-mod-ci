@@ -6,7 +6,7 @@ mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-e
 
 Windows x64 msvc:
 
-mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2024-03-04-0412/cdda-windows-tiles-x64-msvc-2024-03-04-0412.zip
+无
 
 Windows x64:
 
