@@ -1,8 +1,8 @@
-2025-01-18-1735
+2025-01-19-1749
 
 Android x64:
 
-mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2025-01-18-1735/cdda-android-x64-2025-01-18-1735.apk
+mirror.ghproxy.com/github.com/CleverRaven/Cataclysm-DDA/releases/download/cdda-experimental-2025-01-19-1749/cdda-android-x64-2025-01-19-1749.apk
 
 Windows x64 msvc:
 
